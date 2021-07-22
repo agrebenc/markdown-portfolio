@@ -1,0 +1,6 @@
+-  sushi
+-  skiing
+-  canoeing
+-  photography
+   - black and white
+   - colour    
